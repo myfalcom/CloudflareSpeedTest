@@ -74,7 +74,7 @@ const (
 	NormalPing
 )
 
-const url string = "https://speed.cloudflare.com/__down?bytes=314572800"
+const url string = "https://uspf.myfalcom.website/test"
 
 var downloadTestTime time.Duration
 
